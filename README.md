@@ -49,7 +49,8 @@
 </p>
 <p align="left">
   {
-  [![codewars](https://www.codewars.com/users/NameMarginal/badges/small)](https://www.codewars.com/users/NameMarginal) 
+<!--   [![codewars](https://www.codewars.com/users/NameMarginal/badges/small)](https://www.codewars.com/users/NameMarginal)  -->
+  <a><img src="https://www.codewars.com/users/NameMarginal/badges/small" alt="postman" width="40" height="40"/></a>
 [![Marg1na1 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Marg1na1&theme=dark)](https://github.com/Marg1na1/leetcode-stats)
   }
 </p>
