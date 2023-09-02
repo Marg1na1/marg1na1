@@ -49,9 +49,9 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/margina1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="margina1" height="30" width="40" /></a>
-</p>
+<p align="left" dispaly="flex" flexDirection="column">
 [![codewars](https://www.codewars.com/users/NameMarginal/badges/small)](https://www.codewars.com/users/NameMarginal) 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Marg1na1&theme=dark)](https://github.com/Marg1na1/leetcode-stats)
+</p>
+
 
