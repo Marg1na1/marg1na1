@@ -51,7 +51,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left" dispaly="flex" flexDirection="column">
 [![codewars](https://www.codewars.com/users/NameMarginal/badges/small)](https://www.codewars.com/users/NameMarginal) 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Marg1na1&theme=dark)](https://github.com/Marg1na1/leetcode-stats)
+[![Marg1na1 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Marg1na1&theme=dark)](https://github.com/Marg1na1/leetcode-stats)
 </p>
 
 
