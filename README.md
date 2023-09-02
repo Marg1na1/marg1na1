@@ -49,4 +49,5 @@
 </p>
 
 [![codewars](https://www.codewars.com/users/NameMarginal/badges/small)](https://www.codewars.com/users/NameMarginal) 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?Marg1na1=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
