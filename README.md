@@ -47,9 +47,13 @@
 <!--postman-->
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
-
-[![codewars](https://www.codewars.com/users/NameMarginal/badges/small)](https://www.codewars.com/users/NameMarginal) 
+<p align="left">
+  {
+  [![codewars](https://www.codewars.com/users/NameMarginal/badges/small)](https://www.codewars.com/users/NameMarginal) 
 [![Marg1na1 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Marg1na1&theme=dark)](https://github.com/Marg1na1/leetcode-stats)
+  }
+</p>
+
 
 
 
