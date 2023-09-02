@@ -48,6 +48,13 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
+## LeetCode
+
+[![Marg1na1 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Marg1na1&theme=dark)](https://github.com/Marg1na1/leetcode-stats)
+
+## CodeWars
+
+[![codewars](https://www.codewars.com/users/NameMargina1/badges/small)](https://www.codewars.com/users/NameMargina1) 
 
 
 
