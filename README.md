@@ -54,7 +54,7 @@
 
 ## CodeWars
 
-[![codewars](https://www.codewars.com/users/NameMarginal/badges/small)](https://www.codewars.com/users/NameMarginal) 
+[![codewars](https://www.codewars.com/users/Marg1na1/badges/small)](https://www.codewars.com/users/Marg1na1) 
 
 
 
