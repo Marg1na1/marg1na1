@@ -50,8 +50,7 @@
 
 ## LeetCode
 
-[![Marg1na1 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Marg1na1&theme=dark)](https://github.com/Marg1na1/leetcode-stats)
-
+[![Marg1na1 LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Marg1na1&theme=Dark)](https://github.com/Marg1na1/leetcode-stats)
 ## CodeWars
  
 [![codewars](https://www.codewars.com/users/Marg1na1/badges/large)](https://www.codewars.com/users/Marg1na1) 
