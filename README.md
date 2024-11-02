@@ -50,8 +50,10 @@
 
 ## LeetCode
 
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![LeetCode](https://badges.peiyuan.ch/v2/leetcode/Marg1na1/solvedProblems?difficulty=All)
+![LeetCode](https://badges.peiyuan.ch/v2/leetcode/Marg1na1/solvedProblems?difficulty=Easy)
+![LeetCode](https://badges.peiyuan.ch/v2/leetcode/Marg1na1/solvedProblems?difficulty=Medium)
+![LeetCode](https://badges.peiyuan.ch/v2/leetcode/Marg1na1/solvedProblems?difficulty=Hard)
 ## CodeWars
  
 [![codewars](https://www.codewars.com/users/Marg1na1/badges/large)](https://www.codewars.com/users/Marg1na1) 
